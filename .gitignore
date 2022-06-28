@@ -1,0 +1,5 @@
+./build/
+cypress/videos
+cypress/screenshots
+jest-cache/
+node_modules/
